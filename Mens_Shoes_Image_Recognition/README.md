@@ -1,13 +1,6 @@
 File List and Description:
 
 
-***Web_Scraping.ipynb*** - Scraping tools used to scrape mens shoes information from 5 ecommerce websites.
-
-***Text_EDA.ipynb*** - EDA on text, brand and retailer data.
-
-***Price_Regression.ipynb*** - Creates a regression model to predict price based on shoe description, brand and retailer.
-
-
 ***Image_Scrape.ipynb*** - Scrapes Images based on urls obtained in the Web_Scraping notebook.
 
 ***Image_Histogram_Builder.ipynb*** - Generates histograms for each image using SIFT and spatial pyramid matching.
